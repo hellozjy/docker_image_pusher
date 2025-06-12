@@ -1,4 +1,4 @@
-java:8
+openjdk:8
 #nginx
 #redis
 #redis:7.4.1
