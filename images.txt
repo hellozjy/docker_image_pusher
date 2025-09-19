@@ -1,5 +1,6 @@
-mysql:8.0.42
-mysql:8.4.5
+portainer:latest
+#mysql:8.0.42
+#mysql:8.4.5
 #postgres:15
 #postgres:14.18
 #jdk:8
