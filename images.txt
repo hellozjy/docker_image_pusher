@@ -1,4 +1,4 @@
-portainer:latest
+portainer/portainer:latest
 #mysql:8.0.42
 #mysql:8.4.5
 #postgres:15
