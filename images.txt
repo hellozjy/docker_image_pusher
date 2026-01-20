@@ -1,4 +1,3 @@
-portainer/portainer:latest
 #mysql:8.0.42
 #mysql:8.4.5
 #postgres:15
@@ -21,3 +20,4 @@ portainer/portainer:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+portainer/portainer:latest
