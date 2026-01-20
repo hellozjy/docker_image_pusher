@@ -3,7 +3,8 @@
 #mysql:8.4.5
 #postgres:15
 #postgres:14.18
-#jdk:8
+jdk:17
+jdk:21
 #openjdk:17
 #openjdk:8
 #nginx
