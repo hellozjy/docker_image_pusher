@@ -1,4 +1,4 @@
-jenkins/jenkins:2.462
+jenkins/jenkins:2.555
 #mongo:4.4
 #apache/rocketmq:4.8.0
 #docker.elastic.co/kibana/kibana:7.6.1
