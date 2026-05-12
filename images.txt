@@ -1,4 +1,4 @@
-ghcr.io/labring/fastgpt:v4.8.11
+ghcr.io/labring/fastgpt:v4.8.11-fix
 #justsong/one-api:latest
 #jenkins/jenkins:2.555
 #mongo:4.4
