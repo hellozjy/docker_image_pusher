@@ -1,4 +1,4 @@
-docker.io/labring/fastgpt:v4.8.11
+fastgpt:v4.8.11
 #justsong/one-api:latest
 #jenkins/jenkins:2.555
 #mongo:4.4
