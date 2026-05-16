@@ -1,4 +1,5 @@
-ghcr.io/labring/fastgpt:v4.8.12
+apache/rocketmq-dashboard:1.0.0
+#ghcr.io/labring/fastgpt:v4.8.12
 #justsong/one-api:latest
 #jenkins/jenkins:2.555
 #mongo:4.4
